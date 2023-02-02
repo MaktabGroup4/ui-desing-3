@@ -1,0 +1,29 @@
+
+.navbar-brand,.nav-link {
+    color: #fff !important;
+}
+#sign{
+    margin-bottom: 16px;
+    margin-left: 15px;
+}
+#feature {
+    border-bottom: 1.5px solid #ccc;
+    padding-bottom: 4px;
+}
+.container{
+    margin: 80px;
+}
+#left-align{
+    margin-top: 15px;
+}
+#lorem{
+    text-align: justify;
+    color: #9e9e9e;
+}
+#up-table{
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+table  th{
+    font-size: 1.2em;
+}
